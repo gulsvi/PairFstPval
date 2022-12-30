@@ -2,6 +2,7 @@
 
 ### Example ###
 library(hierfstat)
+library(adegenet)
 data(nancycats)
 x <- nancycats 
 path<-'H:/'
